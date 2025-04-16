@@ -10,8 +10,8 @@ To illustrate the dramatic difference in performance, clarity, and outcomes betw
 
 ## 🖥️ Live Demo
 
-simbian-before-after.vercel.app
-https://github.com/bhumikabr18/Simbian_before_after.git
+- https://simbian-before-after.vercel.app/
+- https://github.com/bhumikabr18/Simbian_before_after.git
 
 ---
 
