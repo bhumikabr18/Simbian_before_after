@@ -27,13 +27,12 @@ export default function HomePage() {
       </SectionWrapper>
       {/* Section 2: With Simbian */}
       <SectionWrapper>
-        <h2 classname="text-2xl md:text-4xl font-bold mb-8 text-green-800">With Simbian</h2>
+        <h2 className="text-2xl md:text-4xl font-bold mb-8 text-green-800">With Simbian</h2>
         <SimbianSteps />
-        <div classname="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-10">
           <SuccessCard title="Ignored Alerts" icon="/icons/alert.svg" /> 
           <SuccessCard title="Wrongly Closed Alerts" icon="/icons/close.svg" />
           <SuccessCard title="Active Threats" icon="/icons/threat.svg" />
-          
         </div>
       </SectionWrapper>
     </main>
